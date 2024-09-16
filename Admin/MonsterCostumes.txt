@@ -164,7 +164,7 @@ Monsters/Monster_potbellyGM
 a0 str_costume_default
 christmas str_costume_potGM_christmas Ticket=1 Season_yay:diamonds=20 Frame:SeasonalFrame
 ;
-Monsters/Monster_potbellyGM
+Monsters/Monster_handmond
 a0 str_costume_default
 Deluxe_1 str_costume_handmond_deluxe Ticket=1 Frame:GoldFrame
 ;
