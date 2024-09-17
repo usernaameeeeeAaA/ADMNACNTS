@@ -27,6 +27,7 @@ costume_1 str_costume_quibble_dark Vortex=4,diamonds=10
 Monsters/Monster_banno
 a0 str_costume_default
 costume_1 str_costume_banno_crabs Flower_red=8,coins=100
+Deluxe str_costume_handmond_deluxe Ticket=1 Frame:GoldFrame
 ;
 Monsters/Monster_spunge
 a0 str_costume_default
