@@ -179,6 +179,7 @@ christmas str_costume_potGM_christmas Ticket=1 Season_yay:diamonds=20 Frame:Seas
 Monsters/Monster_handmond
 a0 str_costume_default
 Amber str_costume_handmond_amber diamonds=1
+chef str_costume_handmond_chef diamonds=1
 Deluxe_1 str_costume_handmond_deluxe Ticket=1 Frame:GoldFrame
 ;
 
