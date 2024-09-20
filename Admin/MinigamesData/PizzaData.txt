@@ -1,6 +1,6 @@
 ;0 canend normal
-pizza:4 drink:0 monster:1 attempts:8 toppingcahnce:4
-pizza:5 drink:0 monster:1 attempts:8 toppingcahnce:6
+pizza:4 drink:0 monster:1 attempts:8 toppingcahnce:6
+pizza:5 drink:0 monster:1 attempts:8 toppingcahnce:4
 pizza:5 drink:0 monster:1 attempts:8 nextround:0 toppingcahnce:6
 ;1 canend normal
 pizza:5 drink:0 monster:2 attempts:10 toppingcahnce:4
