@@ -1,16 +1,16 @@
 ;0 canend normal
-pizza:4 drink:0 monster:1
-pizza:5 drink:0 monster:1
-pizza:5 drink:0 monster:1 nextround:0
+pizza:4 drink:0 monster:1 attempts:8
+pizza:5 drink:0 monster:1 attempts:8
+pizza:5 drink:0 monster:1 attempts:8 nextround:0
 ;1 canend normal
-pizza:5 drink:0 monster:2
-pizza:5 drink:2 monster:2
-pizza:5 drink:2 monster:2 outoforder:1
-pizza:5 drink:3 monster:2 nextround:0
+pizza:5 drink:0 monster:2 attempts:15
+pizza:5 drink:2 monster:2 attempts:15
+pizza:5 drink:2 monster:2 outoforder:1 attempts:15
+pizza:5 drink:3 monster:2 nextround:0 attempts:15
 ;2 canend normal
-pizza:5 drink:3 monster:3
-pizza:5 drink:3 monster:3 spice:4
-pizza:5 drink:3 monster:3 spice:4 outoforder:2
-pizza:5 drink:4 monster:3 spice:4 outoforder:2 nextround:0
+pizza:5 drink:3 monster:3 attempts:20
+pizza:5 drink:3 monster:3 spice:4 attempts:20
+pizza:5 drink:3 monster:3 spice:4 outoforder:2 attempts:20
+pizza:5 drink:4 monster:3 spice:4 outoforder:2 attempts:20 nextround:0
 ;3 endless alien
-pizza:4 drink:5 monster:-1 spice:-1 outoforder:-1 alien:0 alienchancemin:3 alienchancemax:6
+pizza:4 drink:5 monster:-1 spice:-1 outoforder:-1 alien:0 alienchancemin:3 alienchancemax:6 attempts:-1
