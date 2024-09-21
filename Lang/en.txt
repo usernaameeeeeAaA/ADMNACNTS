@@ -1256,8 +1256,10 @@ str_costume_knott_1=Dzezva Fezz
 
 str_costume_knott_4=TooOot
 
-
 str_costume_potGM_christmas=Brotherhood of Stars
+
+str_minigame_pizza_level_endless=Last as long as you can!
+str_minigame_pizza_level_alien=Help Zarpo fuel the ship!
 
 ----Credits----
 
