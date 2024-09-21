@@ -10,7 +10,7 @@ pizza:5 drink:3 monster:2 attempts:15 nextround:0 toppingcahnce:4
 ;2 canend normal
 pizza:5 drink:3 monster:3 attempts:20 toppingcahnce:5
 pizza:5 drink:3 monster:3 spice:4 attempts:17 toppingcahnce:6
-pizza:5 drink:3 monster:3 spice:4 attempts:19 toppingcahnce:5 outoforder:17
+pizza:5 drink:4 monster:3 spice:4 attempts:19 toppingcahnce:5 outoforder:17
 pizza:5 drink:4 monster:3 spice:4 attempts:14 nextround:0 toppingcahnce:6 outoforder:15
 ;3 endless alien
 pizza:6 drink:5 spice:-1 outoforder:-1 alien:0 alienchancemin:3 alienchancemax:6 attempts:-1 toppingcahnce:-1 monster:-1
